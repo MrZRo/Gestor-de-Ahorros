@@ -4,7 +4,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-color: #e8e2e2;
+    background-color: #c6c6c6;
     margin: 0;
 }
 
@@ -13,7 +13,7 @@ body {
     border: 1px dotted rgb(0, 0, 0);
     padding: 30px;
     max-width: 400px;
-    background-color: #ff4759;
+    background-color: #47bfff;
 }
 
 h1 {
@@ -50,7 +50,7 @@ input[type="number"] {
     width: 150px;
     border-radius: 5px;
     border: 1px solid #000000;
-    background-color: #47ddff;
+    background-color: #feffff;
 }
 
 button {
@@ -59,6 +59,6 @@ button {
     border-radius: 5px;
     border: 1px solid #000000;
     cursor: pointer;
-    background-color: #e3ff47;
+    background-color: #47ff6c;
     
 }
